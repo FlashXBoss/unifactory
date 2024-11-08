@@ -5,7 +5,7 @@ export default function Copyright() {
     <>
       Powered by{' '}
       <a href="SoniX Swap" target="_blank" rel="noopener noreferrer">
-        Zero Fee DEX On Soneium 
+       SoniX Swap Zero Fee DEX On Soneium 
       </a>
     </>
   )
