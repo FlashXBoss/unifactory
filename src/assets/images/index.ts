@@ -30,6 +30,7 @@ import Q from './q.png'
 import BLAST from './blast.svg'
 import CORE from './core.png'
 import PDY from './parody-logo.png'
+import SONEIUM_ETH from './Soneium.png'
 
 export const CURRENCY = {
   SCROLL_ETH,
@@ -63,6 +64,7 @@ export const CURRENCY = {
   BLAST,
   CORE,
   PDY,
+ SONEIUM_ETH,
 
   // ------------
 
@@ -136,4 +138,5 @@ export const CURRENCY = {
 
   1116: CORE,
   2078: PDY,
+  1946: SONEIUM_ETH
 }
